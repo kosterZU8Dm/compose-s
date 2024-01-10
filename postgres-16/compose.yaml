@@ -7,7 +7,7 @@ services:
     ports:
       - "5432:5432"
     env_file:
-     - ./compose.env
+     - ./postgres.env
 #    environment:
 #      POSTGRES_DB: your_database_name
 #      POSTGRES_USER: your_username
