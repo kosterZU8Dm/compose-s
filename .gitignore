@@ -1,2 +1,4 @@
 postgres.env
 postgres_data
+grafana.env
+grafana_data
